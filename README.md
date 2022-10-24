@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammed Zayan
-- 👀 I’m interested in reading, fitness and health life style
+- 👀 I'm interested in reading, fitness and healthy lifestyle
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [<img src="https://img.icons8.com/doodle/16/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/zayanit/)  [<img src="https://img.icons8.com/doodle/16/000000/twitter-squared.png"/>](https://twitter.com/zayan_it)
