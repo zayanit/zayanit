@@ -1,3 +1,4 @@
+# 💫 About Me:
 - 👋 Hi, I’m Mohammed Zayan
 - 👀 I'm interested in reading, fitness and healthy lifestyle
 - 🌱 I’m currently learning ...
@@ -8,7 +9,7 @@
 zayanit/zayanit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-📊 GitHub Stats:
+# 📊 GitHub Stats:
 <div align="center">
 <p> <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=zayanit&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/> </a>
 </p>
@@ -30,8 +31,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/zayanit" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 10px;" />
 </a>
-<a href="https://www.linkedin.com/in/abdozayan/" target="_blank">
+<a href="https://www.linkedin.com/in/zayanit/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 10px;" />
 </a>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zayanit&label=Profile%20views&color=0e75b6&style=flat" alt="abdozayan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zayanit&label=Profile%20views&color=0e75b6&style=flat" alt="zayanit" /> </p>
 </div>
