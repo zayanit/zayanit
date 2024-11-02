@@ -7,7 +7,7 @@
 You can find me on:
 
 - **[YouTube](https://www.youtube.com/@DevelopersTalks)** We’re trying to make the information accessible and share our expertise with others. The channel focuses on all aspects of technology.
-- **[Twitch](https://x.com/zayan_it)** I regularly share insights and updates on tech and development – feel free to connect and follow along!
+- **[Twitter](https://x.com/zayan_it)** I regularly share insights and updates on tech and development – feel free to connect and follow along!
 - **[LinkedIn](https://linkedin.com/in/zayanit)** I actively engage with industry professionals and share insights on back-end development, and RPA technologies.
 
 <a href="https://github.com/zayanit/github-readme-stats">
